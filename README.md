@@ -1,4 +1,5 @@
-## Cassandra Chaput ## <img src="iu-trident-promo.png" width="50" align="right"/> </p> 
+## Cassandra Chaput ## 
+<img src="iu-trident-promo.png" width="50" align="right"/> </p> 
 
 ### :sassy_woman: About me ... ###
 ```yaml
