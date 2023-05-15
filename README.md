@@ -1,16 +1,23 @@
-### Hi there 👋
+## Cassandra Chaput ##
+<p align="right">
+  <img src="iu-trident-promo.png" width="50" align="right"/>
+</p> 
 
-<!--
-**chaput200/chaput200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :sassy_woman: About me ... ###
+```yaml
+{
+  "Name": "Cassandra Chaput"
+  "Nickname": "Casper"
+  "Age": 22,
+  "Occupation": "Software developer",
+  "School": "Indiana University Bloomington",
+  "Degree": "B.S. in Computer Science",
+  "Major": "Computer Science",
+  "Specialization": "Systems", 
+  "Minor": "Informatics",
+  "Graduation": "August 2023"
+}
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :bust_in_silhouette: Contact me ... ###
+- #### Email: clc@chaput.org ####
